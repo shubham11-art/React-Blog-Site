@@ -23,3 +23,16 @@
 // Link ji dili aahe tayala universal styling apply karnyasathi className deun index.html madhe styling apply keli.
 // { user && "LOGOUT"} => both present asel tarach logout disel nahitar nahi disnar. Like pretected routing aahe he.
 //*// Conditional Rendering - user chi true/false state maintain karun, Routing madhe components maintain kele aahet. Topbar.js madhe - LOGOUT, LOGIN, REGISTER components maintain kele aahe. Ki jar User Login asel tar kay Dakhvayach ani User jar login nasel tar kay dakhavayach.
+
+//*// Revision / Revisit
+// Topbar
+// la position:sticky and z-index - 999, dilyamule to eka gajevar ani kayam varati rahil. Parent cha display-flex karun aapan child la flex - n, ashi size deu shakato.
+// Post.js
+// .postDescription madhe extra css lavli aahe ti content chya khali ... yenari
+// Write.js
+// Form banvala, label and input feild, input cha id label la, clickable icon,
+
+//*// Note - Wrapper div, Classes and Style.
+//*// Ya Property Use - Wrapper div, same element sathi common classes, display: flex; flex-direction: column; align-items: center; position: absolute, relative, font-weight, image sathi object-fit, flex-wrap, margin, pseudo classes and element, Form sathi - form, label, input
+
+//*// Kharach sop aahe.
